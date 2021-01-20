@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Hammer - Listas para label</folder>
+	<filename>Hammer (37).jpg</filename>
+	<path>C:\Users\Usuario\Pictures\SharkID\Hammer - Listas para label-20210118T005033Z-001\Hammer - Listas para label\Hammer (37).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>724</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>201</ymin>
+			<xmax>287</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>223</ymin>
+			<xmax>418</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

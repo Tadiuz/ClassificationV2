@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Azul - Listas para label</folder>
+	<filename>Azul (817).jpg</filename>
+	<path>C:\Users\Usuario\Pictures\SharkID\Azul - Listas para label-20210118T005031Z-001\Azul - Listas para label\Azul (817).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>724</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>248</ymin>
+			<xmax>502</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Azul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>169</ymin>
+			<xmax>449</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

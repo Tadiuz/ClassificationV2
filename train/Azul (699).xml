@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Azul - Labeleadas</folder>
+	<filename>Azul (699).jpg</filename>
+	<path>D:\Downloads2\SharkID-20210120T004652Z-001\SharkID\Azul - Labeleadas\Azul (699).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>724</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azul</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>101</ymin>
+			<xmax>724</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

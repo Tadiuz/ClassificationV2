@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mako Label</folder>
+	<filename>Mako (405).jpg</filename>
+	<path>C:\Users\Samuel\Desktop\Mako Label\Mako (405).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>724</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mako</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>231</ymin>
+			<xmax>339</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sedoso</folder>
+	<filename>Sedoso (35).jpg</filename>
+	<path>C:\Users\Samuel\Desktop\Sedoso\Sedoso (35).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>687</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sedoso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>211</ymin>
+			<xmax>499</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
